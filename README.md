@@ -15,7 +15,7 @@ cd WeatherAPP
 open WeatherAPP.xcodeproj
 ```
 
-📋 Requirements
+## 📋 Requirements
 
 Xcode 12+
 iOS 14.0+
