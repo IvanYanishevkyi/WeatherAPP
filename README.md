@@ -13,7 +13,7 @@ Clone this repository and open the `.xcodeproj` file in Xcode:
 git clone https://github.com/IvanYanishevskyi/WeatherAPP.git
 cd WeatherAPP
 open WeatherAPP.xcodeproj
-```bash
+```
 
 
 
