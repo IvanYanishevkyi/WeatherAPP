@@ -15,8 +15,13 @@ cd WeatherAPP
 open WeatherAPP.xcodeproj
 ```bash
 
-### Requirements
+ Requirements
 
-Xcode 12+
+Xcode 12 or higher
 iOS 14.0+
 Swift 5.0+
+🛠 Technologies Used
+
+Swift: The programming language used for developing the app.
+CoreLocation: For fetching and using the user's current location.
+Open Meteo API: For retrieving weather data.
