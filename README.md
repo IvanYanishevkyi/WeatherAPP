@@ -17,6 +17,6 @@ open WeatherAPP.xcodeproj
 
 ## 📋 Requirements
 
-Xcode 12+
-iOS 14.0+
-Swift 5.0+
+- Xcode 12
+- IOS 14.0+
+- Swift 5.0+
